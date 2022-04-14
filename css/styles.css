@@ -1,0 +1,132 @@
+body
+{
+  font-family: "Montserrat",sans-serif;
+}
+
+#title
+{
+  background-color: #ff4c68;
+}
+
+.customized-container
+{
+  padding:3% 10%;
+}
+
+h1{
+  font-family: "Montserrat-Black",sans-serif;
+  font-weight:bold;
+  line-height: 1.5;
+  font-size: 3rem;
+  color:white;
+  padding: 1rem 0 3rem 1rem;
+}
+
+.tweak
+{
+  padding-top: 2.0rem;
+  padding-bottom: 2.0rem;
+}
+
+.brand-tweak
+{
+  margin-right: 65%;
+  font-size: 2rem;
+  font-weight:bolder;
+}
+
+.picture-tweak
+{
+  transform:rotate(15deg);
+  margin-bottom:-4rem;
+  width:60%;
+  position:relative;
+  top:3rem;
+}
+
+/* features */
+.feature-tweak
+{
+  margin: 10rem auto 0rem auto;
+
+}
+
+h3{
+  font-family:"Montserrat-bolder",sans-serif;
+  font-weight:bolder;
+  font-size:1.5rem;
+}
+
+.feature-icon
+{
+  color:#ef8172;
+  margin: 2rem;
+}
+
+.feature-icon:hover{
+  color:#ff4c68;
+}
+
+.feature-details
+{
+  color:#8f8f8f;
+  font-size:1.2rem;
+  line-height:1.0;
+}
+
+.feature-div
+{
+  width:22rem;
+  text-align:center;
+  margin-botton:3rem;
+}
+
+/* testimonial section */
+
+#testimonials
+{
+  padding:5% 0 0 0;
+  text-align:center;
+  font-family:Montserrat-bold;
+  font-weight:bolder;
+  color:#fff;
+  background-color:#ef8172;
+}
+
+
+.speech
+{
+  margin: 0% 10% 2% 10% ;
+  font-family:"Love Ya Like A Sister";
+  font-weight:bolder;
+  font-size:3rem;
+}
+
+#press{
+  text-align:center;
+  color:#fff;
+  background-color:#ef8172;
+}
+
+.press-logo
+{
+  margin:5% 3% 3% 3%;
+  width:10%;
+}
+
+.testimonial-profile-pic
+{
+  border-radius:100%;
+  width:8%;
+  margin-right:1%;
+}
+
+.testimonial-carousel
+{
+
+}
+
+.carousel-inner
+{
+  height:100%;
+}
